@@ -2,6 +2,6 @@
 ## Lab 03
 ## 09/29/24
 ## Worked with/sources 
-* ask how to cite notes about lists and book
+* "Working with Lists" class slideshow
 ## Project Quirks/ Things that don't work
 * None
