@@ -3,7 +3,7 @@
 # 09/29/24
 # Lab 03 
 # Lab Section: 15
-# Sources, people worked with, help given to: ask how to cite notes about lists and book
+# Sources, people worked with, help given to: "Working with Lists" class slideshow
 # your
 # comments
 # here
@@ -38,6 +38,7 @@ print("Part Two-----------------------------------------------------------------
 states.append("Washington")
 states.append("Oregon")
 states.append("California")
+print(states)
 
 #Again using the specific syntax mentioned in class overwrite the second to last element to be Maine, printing the list 
 states[-2] = "Maine"
